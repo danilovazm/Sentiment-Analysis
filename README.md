@@ -76,5 +76,5 @@ The results are not satisfactory yet. The best result was `58%` of accuracy usin
 
 ## Next steps
 
-Use another library to do the preprocessing, `nltk` probably.
-Explore others models.
+- Use another library to do the preprocessing, `nltk` probably.
+- Explore others models.
